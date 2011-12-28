@@ -1,5 +1,5 @@
 h2. Solarized Light (Eclipse Theme)
 
-This is a theme for the "Eclipse Color Themes":http://www.eclipsecolorthemes.org/ module, based on the work by "George":http://www.eclipsecolorthemes.org/?view=theme&id=1013 and "Ethan SchoonoverÕs Solarized colour palette":http://ethanschoonover.com/solarized.
+This is a theme for the "Eclipse Color Themes":http://www.eclipsecolorthemes.org/ module, based on the work by "George":http://www.eclipsecolorthemes.org/?view=theme&id=1013 and "Ethan Schoonoverâ€™s Solarized colour palette":http://ethanschoonover.com/solarized.
 
-Please note that this theme has the same id as GeorgeÕs version. If you have it installed, this version will override.
+Please note that this theme has the same id as Georgeâ€™s version. If you have it installed, this version will override.
